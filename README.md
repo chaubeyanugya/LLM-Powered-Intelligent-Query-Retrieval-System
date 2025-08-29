@@ -8,7 +8,7 @@ The solution integrates document ingestion, embedding-based semantic search, and
 
 **API Demonstration**
 
-An API demo showcasing the authorization process, available endpoints, and a sample request is attached in this repository as [API Demo (PDF)](API_DEMO.pdf)  
+An API demo showcasing the authorization process, available endpoints, and a sample request is attached in this repository as [API Demo (PDF)](api_demo.pdf)  
 [Sample Output (JSON)](response_1754624975970.json) API_DEMO.pdf.
 
 A sample output from the system is also provided in response_1754624975970.json, which contains the structured answers returned by the API for test queries.
